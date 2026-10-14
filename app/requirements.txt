@@ -9,3 +9,4 @@ tensorflow
 opencv-python
 scikit-learn
 jupyter 
+keras-tuner
